@@ -1,0 +1,29 @@
+#wraper {
+	width: 960px;
+	margin: auto;
+}
+.blokas {
+	border-left: 1px solid #fff;
+	border-right: 1px solid #fff;
+	height: 58px;
+	width: 58px;
+	background-color: black;
+	display: inline-block;	
+}
+button {
+	height: 23px;
+	background: #4285f4;
+	border: 1px solid #4285f4;
+	border-radius: 2px;
+	color: #fff;
+	font-weight: bold;
+	padding-right: 0;
+	padding: 0 12px;
+	line-height: 24px;
+	margin: 10px auto;
+	display: inline-block;
+	
+}
+button:hover {
+	text-decoration: underline;
+}
